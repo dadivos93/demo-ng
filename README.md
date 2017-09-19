@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
+## References
+
+* [https://alligator.io/angular/lazy-loading/](https://alligator.io/angular/lazy-loading/)
+* [https://namitamalik.github.io/Lazy-Loading-with-Angular2-Routing/](https://namitamalik.github.io/Lazy-Loading-with-Angular2-Routing/)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
