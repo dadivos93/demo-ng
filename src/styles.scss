@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootswatch-sass/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss";
+@import "~bootswatch-sass/yeti/_variables.scss";
+
+$icon-font-path: "~bootswatch-sass/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+@import "~bootswatch-sass/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap";
+
+$icon-font-path: "~bootswatch-sass/bower_components/bootstrap-sass-official/assets/fonts/bootstrap/";
+@import "~bootswatch-sass/yeti/_bootswatch.scss";
